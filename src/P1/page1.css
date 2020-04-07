@@ -1,0 +1,17 @@
+.ripple {
+    position: absolute;
+    height: 12vh;
+    left: calc(50vw - 6vh);
+    top: 86.7vh;
+    transition: 1s;
+}
+
+.transparent-ripple {
+    position: absolute;
+    height: 12vh;
+    left: calc(50vw - 6vh);
+    top: 86.7vh;
+    opacity: 0.3;
+    transition: 1s;
+}
+

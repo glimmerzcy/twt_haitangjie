@@ -1,0 +1,46 @@
+.headImage {
+    position: absolute;
+    top: 32.7vh;
+    left: calc(50vw - 3.5vh);
+    height: 26vh;
+}
+
+.imageCanvas {
+    position: absolute;
+    top: 10vh;
+    left: calc(50vw - 20vh);
+    height: 40vh;
+    width: 40vh;
+    visibility: hidden;
+}
+
+.page6sub-button {
+    position: absolute;
+    height: 6vh;
+    left: calc(50vw + 3vh);
+    top: 61vh;
+}
+
+.page6Sub-back {
+    position: absolute;
+    height: 6vh;
+    left: calc(50vw + 8vh);
+    top: 24vh;
+}
+
+.page6Sub-left {
+    position: absolute;
+    height: 3.4vh;
+    left: calc(50vw - 4.8vh);
+    top: 61vh;
+    transition: 1s;
+}
+
+.transparent-page6Sub-left {
+    position: absolute;
+    height: 3.4vh;
+    left: calc(50vw - 4.8vh);
+    top: 61vh;
+    opacity: 0.2;
+    transition: 1s;
+}

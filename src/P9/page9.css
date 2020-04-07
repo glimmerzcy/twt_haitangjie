@@ -1,0 +1,6 @@
+.page9-button {
+    height: 8vh;
+    position: absolute;
+    left: calc(50vw + 7vh);
+    top: 80vh;
+}

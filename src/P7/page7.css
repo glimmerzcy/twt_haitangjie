@@ -1,0 +1,6 @@
+.addus {
+    height: 5vh;
+    position: absolute;
+    left: calc(50vw - 10vh);
+    top: 80vh;
+}

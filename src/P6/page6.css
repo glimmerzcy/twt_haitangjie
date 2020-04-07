@@ -1,0 +1,6 @@
+.page6-button {
+    height: 10vh;
+    position: absolute;
+    left: calc(50vw - 0vh);
+    top: 50vh;
+}

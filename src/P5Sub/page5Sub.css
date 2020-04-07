@@ -1,0 +1,68 @@
+.page5Sub-page {
+    height: 100vh;
+    width: 100vw;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+    text-align: center;
+    /* background-color: black; */
+    /* width: 500px; */
+    margin: 0 auto;
+    /* position: absolute; */
+    position: relative;
+    /* width: 56.33802vh; */
+}
+
+.message-background {
+    width: 100vw;
+    z-index: -1;
+    left: 0;
+}
+
+.message-button {
+    width: 28vw;
+    position: absolute;
+    left: calc(50vw - 14vw);
+    top: 158vw;
+}
+
+
+
+.words-count {
+    position: absolute;
+    top: 30vw;
+    left: calc(50vw + 17.5vw);
+    
+}
+
+.page5Sub-back {
+    position: absolute;
+    top: 10vw;
+    height: 10vw;
+    left: calc(50vw + 20vw);
+}
+
+/* @media(min-aspect-ratio: 1/1) {
+
+} */
+
+.messageInput {
+    position: absolute;
+    height: 80vw;
+    width: 60vw;
+    top: 42vw;
+    left: calc(50vw - 30vw);
+    background-color: transparent;
+    resize: none;
+    font-size: large;
+}
+
+.nickname-input {
+    position: absolute;
+    height: 10vw;
+    width: 60vw;
+    top: 22vw;
+    left: calc(50vw - 30vw);
+    background-color: transparent;
+    resize: none;
+    font-size: large;
+}

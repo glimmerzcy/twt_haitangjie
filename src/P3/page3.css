@@ -1,0 +1,7 @@
+.page3_word {
+    height: 92vh;
+    position: absolute;
+    left: calc(50vw - 30vh);
+    top: 0.5vh;
+    /* top: 80vh; */
+}

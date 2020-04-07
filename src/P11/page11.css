@@ -1,0 +1,16 @@
+.page11-lead {
+    position: absolute;
+    height: 5vh;
+    top: 2vh;
+    left: calc(50vw + 15vh);
+    transition: 1s;
+}
+
+.transparent-page11-lead{
+    position: absolute;
+    height: 5vh;
+    top: 2vh;
+    left: calc(50vw + 15vh);
+    opacity: 0.2;
+    transition: 1s;
+}

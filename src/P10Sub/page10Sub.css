@@ -1,0 +1,43 @@
+.page10Sub-button {
+    height: 10vh;
+    position: absolute;
+    left: calc(50vw + 10vh);
+    top: 85vh;
+}
+
+.blessingBar {
+    position: absolute;
+    top: 10vh;
+    left: calc(50vw - 20vh);
+    /* border: solid black;
+    padding: 1vh; */
+    /* height: 20vh; */
+}
+
+.blessingBarCon {
+    position: relative;
+}
+
+.blessingBackground {
+    position: absolute;
+    height: 50vh;
+}
+
+.completeButton {
+    position: absolute;
+    height: 5vh;
+    top: 40vh;
+    left: 10vh;
+}
+
+.blessingMessage {
+    position: absolute;
+    top: 10vh;
+    left: 2vh;
+}
+
+.page10Sub-background {
+    height: 100%;
+    position: absolute;
+    left: calc(50vw - 28.169vh);
+}

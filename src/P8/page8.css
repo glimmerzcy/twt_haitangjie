@@ -1,0 +1,29 @@
+.right-bus {
+    position: absolute;
+    left: calc(50vw - 18vh);
+    height: 100vh;
+}
+
+.left-bus {
+    position: absolute;
+    left: calc(50vw - 47vh);
+    height: 100vh;
+    transition: 2s;
+}
+
+.page8-arrow {
+    height: 3.5vh;
+    position: absolute;
+    top: 61vh;
+    left: calc(50vw - 17vh);
+    transition: 1s;
+}
+
+.transparent-page8-arrow {
+    height: 3.5vh;
+    position: absolute;
+    top: 61vh;
+    left: calc(50vw - 17vh);
+    opacity: 0.2;
+    transition: 1s;
+}

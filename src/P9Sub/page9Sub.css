@@ -1,0 +1,83 @@
+.page9Sub-background {
+    height: 100%;
+    position: absolute;
+    left: calc(50vw - 28.169vh);
+    transition: 2s;
+}
+
+.page9Sub-back {
+    position: absolute;
+    height: 8vh;
+    top: 90vh;
+    left: calc(50vw - 11vh);
+}
+
+.message-unit {
+    height: 5vh;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.message-wall {
+    position: absolute;
+    top: 16vh;
+    height: 70vh;
+    width: 47vh;
+    left: calc(50vw - 27vh);
+}
+
+/* .iscroll {
+    height: 80vh;
+} */
+
+.message {
+    position: relative;
+    width: inherit;
+    height: max-content;
+    overflow: hidden;
+    /* background-image: 'message_unit.png'; */
+}
+
+.message-word {
+    position: absolute;
+    text-align: right;
+    top: -1.9vh;
+    left: 0;
+}
+
+.page9Sub-check {
+    position: absolute;
+    right: 0;
+    top: -2vh;
+    height: 9vh;
+}
+
+.message-detail {
+    /* height: 100%; */
+    height: 55vh;
+    width: 30vh;
+    position: absolute;
+    left: calc(50vw - 15vh);
+    top: 22vh;
+    /* background-color: black; */
+}
+
+.message-detail-nickname {
+    /* position: absolute; */
+    /* left: 0; */
+    /* top: 20vh; */
+    font-size: large;
+    text-align: left;
+    /* height: 30vh; */
+}
+
+.message-detail-word {
+    /* position: absolute; */
+    /* left: 0; */
+    /* top: 30vh; */
+    font-size: large;
+    text-align: left;
+    /* height: 30vh; */
+}
